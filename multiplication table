@@ -1,0 +1,15 @@
+import java.util.*;
+class Manvi {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int m=sc.nextInt();
+        sc.nextLine();
+        int n=sc.nextInt();
+        sc.nextLine();
+        int i;
+        for(i=1;i<=n;i++){
+            int a=i*m;
+            System.out.println(i+" * "+m+" = "+a);
+        }
+    }
+}
