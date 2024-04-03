@@ -1,4 +1,4 @@
-class matrixadd {
+class Matrixadd {
     public static void main(String[] args) {
         int[][] firstMatrix = {{1, 2}, {3, 4}};
         int[][] secondMatrix = {{5, 6}, {7, 8}};
